@@ -1,5 +1,8 @@
-package leetcode.binarytreemaxpathsum;
+package leetcode.e124_binarytreemaxpathsum;
 
+/**
+ * https://leetcode.com/problems/binary-tree-maximum-path-sum/
+ */
 
 public class Solution {
 
